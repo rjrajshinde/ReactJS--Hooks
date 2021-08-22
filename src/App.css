@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+button {
+  padding: 3px;
+  margin: 5px;
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+table {
+  text-align: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
